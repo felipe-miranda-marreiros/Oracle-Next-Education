@@ -4,6 +4,8 @@
 
 É uma parceria com Oracle e Alura que tem como objetivo formar novos desenvolvedores no periodo de 6 meses.
 
+:point_right: <a href="https://www.oracle.com/br/education/oracle-next-education/">Saiba mais sobre o programa</a>
+
 # Introdução a JavaScript
 
 Pequeno projeto que usa Vanilla JavaScript para manipular elementos do HTML e CSS. Aqui, eu aprendi como DOM pode proporcionar um modelo para ser alterado e modificado. A proposta desse projeto foi utilizar um pequeno banco de dados em JSON para calcular o IMC de alguns pacientes.
