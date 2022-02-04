@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/91689754/152213457-20956433-18cf-4a6a-94dd-bdd42da79205.png)
 
-É uma parceria com Oracle e Alura que tem como objetivo formar novos desenvolvedores no periodo de 6 meses.
+É uma parceria com Oracle e Alura que tem como objetivo formar novos desenvolvedores.
 
 :point_right: <a href="https://www.oracle.com/br/education/oracle-next-education/">Saiba mais sobre o programa</a>
 
